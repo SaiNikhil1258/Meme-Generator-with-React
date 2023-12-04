@@ -12,6 +12,7 @@ Currently, two official plugins are available:
 # Meme Generator App
 
 This is a simple React-based meme generator application that allows users to create custom memes by adding top and bottom text to random meme images fetched from an API.
+[Live Demo](https://meme-gen-nikhil.netlify.app/)
 
 ## Overview
 
